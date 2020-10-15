@@ -1,0 +1,2 @@
+#D&G&M Company
+It's a RWD page made by me following the course from MMCSchool. Its stored in github only for backup. I fixed the bug with nav section. This page improved my skills with GRID programming pages/
